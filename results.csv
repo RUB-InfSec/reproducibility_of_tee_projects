@@ -1,0 +1,271 @@
+name,link,source,activity,stability,purchasable,tee_type,project_type,build_system,source_code,build_instructions,reference,compiled,reproduced,replied
+180protocol,https://github.com/180Protocol/180protocol,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Aggregation Data Cooperation Platform,,Azure,active commit,stable,No,SGX,,,,,,,,
+AnYong Database Enryption System,anyong,Azure,active commit,stable,Yes,None,commercial,None,No,No,No,NA,No,NA
+Anjuna Confidential Computing Platform,Anjuna,Azure,active commit,stable,Yes,"SGX, SEV-SNP",commercial,None,No,No,No,NA,No,NA
+Anonify / CCMs,https://github.com/LayerXcom/anonify,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Anqlave Data Vault,Anqlave,Azure,active commit,stable,Yes,SGX,commercial,None,No,No,No,NA,No,NA
+AutoPrivacy DataCleanRoom,,Azure,active commit,stable,No,SGX,,,,,,,,
+Automata Network,https://github.com/automata-network/automata,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+Avocado,https://github.com/mbailleu/avocado,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Azure DCAP,https://github.com/Microsoft/Azure-DCAP-Client,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Azure Enclave Research,https://github.com/microsoft/Azure-Secure-Enclave-for-Research,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+Azure attestation,https://github.com/Azure-Samples/microsoft-azure-attestation,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+BI-SGX,https://github.com/hello31337/BI-SGX,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+BISEN,https://github.com/bernymac/BISEN,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,No,No,NA,No,NA
+BastionLab,https://github.com/mithril-security/bastionlab,Awesome,active commit,instable,NA,SEV-SNP,,NA,NA,NA,NA,NA,No,NA
+Bento,https://github.com/breakerspace/bento,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+BiORAM-SGX,https://github.com/cBioLab/BiORAM-SGX,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+BigDL,https://github.com/intel/ipex-llm,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+BlindAI,https://github.com/mithril-security/blindai,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+C# with SGX,https://github.com/Jim8y/A_C-Sharp_Project_With_SGX,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+CACIC-Use-Case,https://github.com/GTA-UFRJ/CACIC-Use-Case,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+CAGE,https://github.com/Compass-All/NDSS24-CAGE,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+CASSA,https://github.com/Noxy3301/CASSA,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+CC CVM guest attestation,https://github.com/Azure/confidential-computing-cvm-guest-attestation,Awesome,active commit,not explicitly mentioned,NA,SEV-SNP,commercial,None,Yes,No,No,NA,No,NA
+CC operator,https://github.com/confidential-containers/operator,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+CCF,https://github.com/microsoft/CCF,Azure,active commit,stable,Yes,SGX,commercial,Docker image,Yes,Yes,Yes,Yes (indep),Yes (guided),Yes
+CCF,https://github.com/microsoft/CCF,Awesome,active commit,not explicitly mentioned,NA,SEV-SNP,commercial,Docker image,Yes,Yes,Yes,Yes (indep),Yes (indep),Yes
+Certifier Framework,https://github.com/ccc-certifier-framework/certifier-framework-for-confidential-computing,Awesome,active commit,not explicitly mentioned,NA,SEV-SNP,commercial,None,Yes,Yes,No,NA,No,NA
+Channel ID,https://github.com/google/channel-id-enclave,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Conclave Pass,https://github.com/R3Conclave/ccl-sample-conclavepass,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Conclave core SDK,https://github.com/R3Conclave/conclave-core-sdk,Awesome,discontinued,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Confidential Cross-Database DNA,,Azure,active commit,stable,No,None,,,,,,,,
+ConsenSGX,https://github.com/sshsshy/ConsenSGX,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Cosmian KMS,https://github.com/Cosmian/kms,GCP,active commit,stable,Yes,SEV-SNP,commercial,Nix,Yes,Yes,Yes,Yes (indep),Yes (indep),NA
+Cosmian verifiable VM,https://docs.cosmian.com/cosmian_vm/,"GCP, Azure",active commit,stable,Yes,"SEV-SNP, TDX",commercial,None,No,No,No,NA,No,NA
+CreDB,https://github.com/kaimast/credb,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+DCR,https://github.com/qascade/dcr,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+DEBE,https://github.com/yzr95924/DEBE,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Date-in-use Encrypting MongoDB,https://github.com/enclaive/enclaive-docker-mongodb-sgx,Azure,active commit,stable,Yes,SGX,commercial,Docker file,Yes,Yes,Yes,Yes (indep),No,Yes
+DeSearch,https://github.com/SJTU-IPADS/DeSearch,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Dissecting BFT,https://github.com/msadoghi/resdb-sgx-eurosys,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Edgeless RT,https://github.com/edgelesssys/edgelessrt,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+EdgelessDB,https://github.com/edgelesssys/edgelessdb,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Ego,https://github.com/edgelesssys/ego,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,Yes,Yes (indep),Yes (indep),NA
+Ekiden,https://github.com/ekiden/ekiden?tab=readme-ov-file,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Erlang-SGX,https://github.com/Erlang-Enclave-Thesis/sgx-erlang-extension,Awesome,active commit,instable,NA,SGX,academic,None,Yes,No,No,NA,No,NA
+EscrowAI,https://github.com/BeeKeeperAI/,Azure,active commit,stable,Yes,SGX,commercial,None,No,No,No,NA,No,NA
+Ethernity NODE,https://github.com/ethernity-cloud/mvp-pox-node,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+FHE in TEE,https://github.com/zkFHE/FHE-in-TEE,Awesome,active commit,instable,NA,"SGX, Other",,NA,NA,NA,NA,NA,No,NA
+FHEnom for AI,,GCP,active commit,stable,No,None,,,,,,,,
+FeIDo,https://github.com/feido-token,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+FedServing,https://github.com/H-W-Huang/FedServing,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Fedora 43,,Azure,active commit,stable,Yes,,,,,,,,,
+Fidelius,https://github.com/YeeZTech/YeeZ-Privacy-Computing,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,No,No,NA,No,NA
+Fireblocks API Co-Signer,https://developers.fireblocks.com/docs/intel-sgx-api-co-signer,Azure,active commit,stable,Yes,SGX,commercial,None,No,No,No,NA,No,NA
+Formal specification,https://github.com/Maxul/Awesome-SGX-Open-Source?tab=readme-ov-file#remote-attestation-ra-and-secure-channels,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Fortanix Data security manager (VHD),,Azure,active commit,stable,Yes,,,,,,,,,
+Fortanix confidential computing node agent,,Azure,active commit,stable,Yes,,,,,,,,,
+Fortanix data security manager,https://support.fortanix.com/docs/fortanix-data-security-manager-dsm,Azure,active commit,stable,Yes,SGX,commercial,None,No,No,No,NA,No,NA
+GenesisDrive SGX,https://github.com/VRTeamgenesis/GenesisDrive-SGX,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,No,No,NA,No,NA
+Go with Intel SGX,https://github.com/rupc/go-with-intel-sgx,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+GoTEE,https://github.com/usbarmory/GoTEE,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+GoTEE (epfl),https://github.com/epfl-dcsl/gotee,Awesome,active commit,instable,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Google asylo,https://github.com/google/asylo,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Bazel,Yes,Yes,Yes,Yes (indep),No,No
+Gramine,https://github.com/gramineproject/gramine,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),Yes (guided),Yes
+Graphene SGX,https://github.com/intel/GrapheneSGX-Golang-Support-and-Enhancement,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+HEBD,https://github.com/SJTU-IPADS/HEDB,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Integritee worker,https://github.com/integritee-network/worker,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,Yes,No,NA,No,NA
+Intel SecL-DC,https://github.com/intel-secl/intel-secl,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+Intel Trust Authority,https://docs.trustauthority.intel.com/main/articles/articles/ita/introduction.html,Azure,active commit,stable,Yes,None,commercial,None,No,No,No,NA,No,NA
+KangaLock HSM,,Azure,active commit,stable,No,None,,,,,,,,
+Key-Manager for Faasm,https://github.com/faasm/keymanager,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Keystore,https://github.com/cloud-key-store/keystore,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+KubeTEE TFF,https://github.com/SOFAEnclave/trusted-function-framework,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+LSKV,https://github.com/microsoft/LSKV,Awesome,active commit,instable,NA,"SGX, SEV-SNP",,NA,NA,NA,NA,NA,No,NA
+Ledger BOLOS,https://github.com/LedgerHQ/bolos-enclave,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Let's eSign Enclave,https://github.com/letsesign/letsesign-enclave,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+MACSec,https://github.com/fkirc/secure-network-interface-with-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+MC2,https://github.com/mc2-project/mc2,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Marblerun,https://github.com/edgelesssys/marblerun,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,Yes,Yes (indep),Yes (guided),Yes
+Memory Sharing,https://github.com/cloud-security-research/memsharing-sgxcard,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+MobileCoin,https://github.com/mobilecoinfoundation/mobilecoin?tab=readme-ov-file,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+Mutual attestation lib,https://github.com/AntonioDan/SGX_Enclave_Mutual_Attestation_Library,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+Mystikos,https://github.com/deislabs/mystikos,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+Nginx-SGX,https://github.com/enclaive/enclaive-docker-nginx-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,Yes,Yes (indep),No,Yes
+Oak,https://github.com/project-oak/oak,Awesome,active commit,not explicitly mentioned,NA,"SEV-SNP, TDX",commercial,Bazel,Yes,No,Yes,NA,No,NA
+Oasis Network,https://github.com/oasisprotocol/oasis-core,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+Obscuro Mixer,https://github.com/BitObscuro/Obscuro,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Occlum,https://github.com/occlum/occlum,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,Yes,Yes,Yes (indep),No,No
+Opaque,https://github.com/mc2-project/opaque-sql,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Open DL Compiler Stack,https://github.com/apache/tvm/tree/main/apps/sgx,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+OpenID Connect,https://github.com/DanielShteinbok/spring-oidc-conclave-authentication,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+OpenRelay,https://github.com/triumphantomato/openrelay,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+OpenSSL,https://github.com/sparkly9399/SGX-OpenSSL,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+OpenShift,https://github.com/intel/intel-technology-enabling-for-openshift,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Opera,https://github.com/Calctopia-OpenSource/opera,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+P4Cleanroom,,Azure,active commit,stable,No,SGX,,,,,,,,
+POSUP,https://github.com/thanghoang/POSUP,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+PPFL,https://github.com/mofanv/PPFL,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+PSec,https://github.com/ShivKushwah/PSec,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,Docker file,Yes,Yes,No,NA,No,NA
+Panoply,https://github.com/shwetasshinde24/Panoply,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Phala blockchain,https://github.com/Phala-Network/phala-blockchain,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+Plinius,https://github.com/anonymous-xh/plinius,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+Polaris,https://github.com/Fr0ntierX/polaris-proxy,"GCP, Azure",active commit,stable,Yes,SEV-SNP,commercial,Docker file,Yes,No,Yes,NA,No,NA
+Polaris AI,https://docs.fr0ntierx.com/polaris-ai/,Azure,active commit,stable,Yes,SEV-SNP,commercial,None,No,No,No,NA,No,NA
+Polaris K8s,https://github.com/Fr0ntierX/polaris-proxy,Azure,active commit,stable,Yes,SEV-SNP,commercial,Docker file,Yes,No,Yes,NA,No,NA
+Polaris LLM,https://docs.fr0ntierx.com/polaris-llm/,Azure,active commit,stable,Yes,SEV-SNP,commercial,None,No,No,No,NA,No,NA
+Polaris Pro,https://github.com/Fr0ntierX/polaris-proxy,"GCP, Azure",active commit,stable,Yes,SEV-SNP,commercial,Docker file,Yes,No,Yes,NA,No,NA
+Porpoise,https://github.com/iisc-cssl/porpoise,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Priority load balancer,https://github.com/flashbots/prio-load-balancer,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Private Chaincode,https://github.com/hyperledger/fabric-private-chaincode,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Private Data Objects (PDO),https://github.com/hyperledger-labs/private-data-objects,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Private Information Retrieval,https://github.com/patrickwang96/BO-PIR-SGX,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+Private SSE Schemes,https://github.com/MonashCybersecurityLab/SGXSSE,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,Yes,No,No,No
+Proof of Luck,https://github.com/luckychain/lucky,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Protect Audit-Log,https://github.com/lsds/LibSEAL,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Pyspark sql,https://github.com/mdrakiburrahman/sgx-pyspark-sql-demo,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+QShield,https://github.com/fishermano/QShield,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Raft,https://github.com/LuminousXLB/EnclaveRaft,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+Ratel,https://github.com/ratel-enclave/ratel,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Red Hat Enterprise Linux (RHEL),,Azure,active commit,stable,Yes,,,,,,,,,
+Reusable enclaves,https://github.com/OSUSecLab/Reusable-Enclaves,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+Robust P2P Primitives,https://bitbucket.org/P2PUsingSGX/p2pusingsgx/src/master/,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Ryoan,https://github.com/ut-osa/ryoan,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SCONE PySpark,https://sconedocs.github.io/azure/scone-pyspark/,Azure,active commit,stable,Yes,SGX,commercial,None,No,No,No,NA,No,NA
+SCONE platform,https://sconedocs.github.io/latest/helm_cas/,Azure,active commit,stable,Yes,SGX,commercial,None,No,No,Yes,NA,No,NA
+SENG,https://github.com/sengsgx/sengsgx,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX + Snort Intrusion,https://github.com/cloud-security-research/sgx-ids,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX + Tor,https://github.com/kaist-ina/SGX-Tor,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX + Web Crawler,https://github.com/ShengHow95/simple-selenium-sgx-crawler,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+SGX Device Plugin,https://github.com/AliyunContainerService/sgx-device-plugin,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+SGX Kubernetes Plugin,https://github.com/intel/intel-device-plugins-for-kubernetes/tree/main,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+SGX Quote Verification Service,https://github.com/pw4ever/isecl-sqvs,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+SGX RA,https://github.com/svartkanin/linux-sgx-remoteattestation,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX RA TLS,https://github.com/cloud-security-research/sgx-ra-tls,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX RA sample,https://github.com/intel/sgx-ra-sample,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX enabled OpenStack Barbican,https://github.com/cloud-security-research/sgx-kms,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX file hosting,https://github.com/wuliangshun/SGX-base-File-Hosting,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,No,NA,No,NA
+SGX+CDN,https://github.com/smherwig/phoenix,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX-ADL,https://github.com/arefasvadi/SGX-ADL,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX-Aware Container Orchestrator,https://github.com/sebva/sgx-orchestrator,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+SGX-LKL,https://github.com/lsds/sgx-lkl,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGX-Migration,https://github.com/SSGAalto/sgx-migration,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SGXDataCenterAttestationPrimitives,https://github.com/intel/SGXDataCenterAttestationPrimitives,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+SGXKaller,https://github.com/Arslan8/SGXKaller,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SOTER,https://github.com/hku-systems/SOTER,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+SPEICHER,https://github.com/mbailleu/SpeicherDPDK,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+SQLite,https://github.com/yerzhan7/SGX_SQLite,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+STANLite,https://github.com/ibr-ds/STANlite,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+SafeBricks,https://github.com/YangZhou1997/SafeBricks,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+SafeKeeper,https://github.com/SafeKeeper,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SafePass,https://github.com/AbhijeetSonar21/SafePass,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,Yes,No,NA,No,NA
+SafeTrace,https://github.com/scrtlabs/SafeTrace,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,No,No,NA,No,NA
+Safeheron's TEE ,https://github.com/Safeheron/sgx-arweave-cpp,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,No,No,No
+Scontain,https://github.com/scontain,Awesome,active commit,instable,NA,,,,,,,,,
+SecDATAVIEW,https://github.com/shiyonglu/SecDATAVIEW,Awesome,active commit,not explicitly mentioned,NA,"SGX, SEV-SNP",academic,None,Yes,Yes,No,NA,No,NA
+Secret Network,https://github.com/scrtlabs/SecretNetwork,Awesome,active commit,not explicitly mentioned,NA,SEV-SNP,commercial,Yocto,Yes,Yes,Yes,Yes (indep),Yes (indep),NA
+Secret Network,https://github.com/scrtlabs/SecretNetwork,Awesome,active commit,not explicitly mentioned,NA,TDX,commercial,Yocto,Yes,Yes,Yes,Yes (indep),No,No
+Secret Network,https://github.com/scrtlabs/SecretNetwork,"Awesome, Azure",active commit,not explicitly mentioned,Yes,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,Yes
+SecretFlow,https://github.com/secretflow/secretflow,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+SecureStreams,https://github.com/vschiavoni/SecureStreams-DEBS17,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Setheum,https://github.com/Setheum-Labs/Setheum,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+Signal CDS,https://github.com/signalapp/ContactDiscoveryService,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),Yes (indep),NA
+Slalom,https://github.com/ftramer/slalom,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Snoopy,https://github.com/ucbrise/snoopy,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+SnowHaze VPN,https://github.com/snowhaze/zka-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+StealthDB,https://github.com/cryptograph/stealthdb,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Switchboard SGX SDK,https://github.com/switchboard-xyz/sgx-sdk,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+TEEKAP,https://github.com/MingyuanGao/TEEKAP,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+TEESlice,https://github.com/ziqi-zhang/TEESlice-artifact,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+TPDV,https://github.com/diogoftm/TPDV,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+TaLoS,https://github.com/lsds/TaLoS,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,Docker file,Yes,Yes,No,NA,No,NA
+Teaclave SDK,https://github.com/apache/incubator-teaclave-sgx-sdk,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,Yes,Yes,Yes (indep),No,No
+Teechain,https://github.com/lsds/Teechain,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Temper,https://github.com/tsinghua-ideal/TEMPER-Secure-MLaaS,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Ternoa Blockchain,https://github.com/capsule-corp-ternoa/ternoa-node / https://github.com/capsule-corp-ternoa/ternoa-enclaves,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,Yes,Yes (indep),No,Yes
+Town Crier,https://github.com/bl4ck5un/Town-Crier,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,Docker file,Yes,Yes,No,NA,No,NA
+TresorSGX,https://github.com/ayeks/TresorSGX,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Trusted Certificate service for Kubernetes,https://github.com/intel/trusted-certificate-issuer,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Trusted ML SGX,https://github.com/xenshinu/Trusted-ML-SGX,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+Trusted in-memory KVS,https://github.com/cocoppang/ShieldStore,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+TrustedGateway,https://github.com/trugw,Awesome,active commit,instable,NA,Other,,NA,NA,NA,NA,NA,No,NA
+Twilight,https://github.com/saart/Twilight,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+Ubuntu 24.04,,Azure,active commit,stable,Yes,,,,,,,,,
+Ubuntu 24.04 Lts,,"GCP, Azure",active commit,stable,Yes,,,,,,,,,
+Ubuntu 25.04,,Azure,active commit,stable,Yes,,,,,,,,,
+Ubuntu Server 25.10,,Azure,active commit,stable,Yes,,,,,,,,,
+V2V sgx prelim,https://github.com/OSUSecLab/v2v-sgx-prelim,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Veracruz,https://github.com/veracruz-project/veracruz,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+Verifiable election,https://github.com/davidgmorais/verifiable-election,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,No,No,NA,No,NA
+X-Search,https://github.com/Sand-jrd/SGX-Search,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,No,No,NA,No,NA
+ZeroCache,https://github.com/Maxul/zerocache,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+ZeroTrace,https://github.com/sshsshy/ZeroTrace,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+ZooKeeper,https://github.com/sereca/SecureKeeper,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+bwa sgx scone,https://github.com/dsc-sgx/bwa-sgx-scone,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+c3po,https://github.com/omec-project/c3po,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+cc zoo,https://github.com/intel/confidential-computing-zoo,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+ccatoken,https://github.com/veraison/ccatoken,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+confidential ml sgx,https://github.com/prasadkjose/confidential-ml-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+confidential space,https://github.com/salrashid123/confidential_space,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+darkproto,https://github.com/andrcmdr/darkproto-proposal,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+dcr,https://github.com/qascade/dcr,Awesome,active commit,instable,NA,,,,,,,,,
+dp-gbdt,https://github.com/loretanr/dp-gbdt,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+eEVM,https://github.com/Microsoft/eEVM,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+eHSM,https://github.com/intel/ehsm,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+eigencc,https://github.com/0xEigenLabs/eigencc,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,Yes,No,NA,No,NA
+enarx,https://github.com/enarx/enarx,Awesome,active commit,instable,NA,"SGX, SEV-SNP",,NA,NA,NA,NA,NA,No,NA
+enclaive,https://github.com/enclaive,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+enclave vrf,https://github.com/smartbch/enclave-vrf,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,Yes,Yes (indep),No,No
+enclave-cc,https://github.com/confidential-containers/enclave-cc,Awesome,discontinued,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+enclaveML,https://github.com/jaytoday/enclaveML,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+enclaved-FE,https://github.com/cryptohackathon/enclaved-FE,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+gbdt-rs,https://github.com/mesalock-linux/gbdt-rs,Awesome,active commit,not explicitly mentioned,NA,"SGX, Other",academic,None,Yes,No,No,NA,No,NA
+inclavaire,https://github.com/inclavare-containers/inclavare-containers,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,Yes,No,NA,No,NA
+incubator teaclave,https://github.com/apache/incubator-teaclave,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+libtjpeg,https://github.com/xymeng16/libtjpeg,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+linux sgx,https://github.com/intel/linux-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Nix,Yes,Yes,Yes,Yes (indep),Yes (indep),NA
+load sgx enclave from dll,https://github.com/nadiaivc/Load-SGX-enclave-from-DLL,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+lockbox,https://github.com/commerceblock/lockbox,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+mage,https://github.com/donnod/linux-sgx-mage,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+mbedtls,https://github.com/bl4ck5un/mbedtls-SGX,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+mc-oblivious,https://github.com/mobilecoinfoundation/mc-oblivious,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+memcached-sgx,https://github.com/Yuhala/memcached-sgx,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+mesapy,https://github.com/mesalock-linux/mesapy,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+meta-secure-core,https://github.com/jiazhang0/meta-secure-core,Awesome,archived,NA,NA,Other,,NA,NA,NA,NA,NA,No,NA
+nGo,https://github.com/occlum/ngo,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+node secureworker,https://github.com/evervault/node-secureworker,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+onnxruntime,https://github.com/microsoft/onnxruntime-openenclave,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+opencv lite,https://github.com/xymeng16/opencv_lite_sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+python-sgx,https://github.com/adombeck/python-sgx,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+rex,https://github.com/rafaelppires/rex,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+rust-sgx,https://github.com/fortanix/rust-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker image,Yes,No,Yes,NA,No,NA
+rust-sgx,https://github.com/fortanix/rust-sgx,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+sWorker,https://github.com/crustio/crust-sworker,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,No,NA,No,NA
+safeheron,https://github.com/Safeheron/safeheron-crypto-suites-cpp-sgx,Awesome,invalid link,not explicitly mentioned,NA,SGX,commercial,None,Yes,NA,No,NA,No,NA
+seal-sgx,https://github.com/shenqtao/seal_SGX,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+secure aggregation,https://github.com/mc2-project/secure-aggregation,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+sev-snp-measure,https://github.com/virtee/sev-snp-measure,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+sfaas,https://github.com/SSGAalto/sfaas,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+sgx aes,https://github.com/Maxul/SGX-AES-256,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,No,No,NA,No,NA
+sgx emm,https://github.com/intel/sgx-emm,Awesome,active commit,not explicitly mentioned,NA,,,,,,,,,
+sgx genotype,https://github.com/ndokmai/sgx-genotype-imputation,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+sgx pytorch,https://github.com/intel/sgx-pytorch,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+sgx ssl,https://github.com/intel/intel-sgx-ssl,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+sgx trust management,https://github.com/IBM/sgx-trust-management,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+sgx-based mix networks,https://github.com/oEscal/sgx-based-mix-networks,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+sgx-bsm,https://github.com/sbellem/sgx-bsm,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+sgx-dnet,https://github.com/anonymous-xh/sgx-dnet,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+sgx-gmp,https://github.com/intel/sgx-gmp,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+sgx-login,https://github.com/enclaive/sgx-login,Awesome,invalid link,NA,NA,NA,,NA,NA,NA,NA,NA,No,NA
+sgxdedup,https://github.com/jingwei87/sgxdedup,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+sgxgnome,https://github.com/ndokmai/sgx-genome-variants-search,Awesome,inactive commit,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+sgxwallet,https://github.com/skalenetwork/sgxwallet,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+srx,https://github.com/andrade/srx,Awesome,active commit,instable,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+tamago,https://github.com/usbarmory/tamago,Awesome,active commit,not explicitly mentioned,NA,SEV-SNP,commercial,None,Yes,Yes,Yes,Yes (indep),Yes (indep),NA
+teaclave java sdk,https://github.com/apache/incubator-teaclave-java-tee-sdk,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+teaclave trustzone sdk,https://github.com/apache/incubator-teaclave-trustzone-sdk,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+tee mnist,https://github.com/scaleoutsystems/tee-mnist,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,Docker file,Yes,Yes,No,NA,No,NA
+tenosorflow lite,https://github.com/Jumpst3r/tensorflow-lite-sgx,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+tf-encrypted,https://github.com/tf-encrypted/tf-encrypted,Awesome,active commit,instable,NA,Other,,NA,NA,NA,NA,NA,No,NA
+tf-trusted,https://github.com/capeprivacy/tf-trusted,Awesome,archived,NA,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+uBFT,https://github.com/LPD-EPFL/ubft,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+unine-twine,https://github.com/jamesmenetrey/unine-twine,Awesome,active commit,not explicitly mentioned,,,,,,,,,,
+veraison,https://github.com/veraison/services,Awesome,active commit,not explicitly mentioned,NA,Other,,NA,NA,NA,NA,NA,No,NA
+verifiable lock manager,https://github.com/shangsuru/verifiable-lockmanager,Awesome,active commit,not explicitly mentioned,NA,SGX,academic,None,Yes,Yes,No,NA,No,NA
+wasm micro-runtime,https://github.com/bytecodealliance/wasm-micro-runtime,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+wasmi-sgx,https://github.com/mesalock-linux/wasmi-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+wolfssl,https://github.com/wolfSSL/wolfssl-examples,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
+xgboost,https://github.com/mc2-project/secure-xgboost,Awesome,active commit,instable,NA,SGX,,NA,NA,NA,NA,NA,No,NA
+zlib-sgx,https://github.com/ffosilva/zlib-sgx,Awesome,active commit,not explicitly mentioned,NA,SGX,commercial,None,Yes,Yes,No,NA,No,NA
